@@ -1,0 +1,17 @@
+C:\Users\Norberta Balaisyte\Engineering40\Week4\Day3\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Norberta Balaisyte\Engineering40\Week4\Day3\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Norberta Balaisyte\Engineering40\Week4\Day3\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Norberta Balaisyte\Engineering40\Week4\Day3\CalculatorTest\bin\Debug\CalculatorTest.dll
+C:\Users\Norberta Balaisyte\Engineering40\Week4\Day3\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Users\Norberta Balaisyte\Engineering40\Week4\Day3\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Norberta Balaisyte\Engineering40\Week4\Day3\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Norberta Balaisyte\Engineering40\Week4\Day3\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Norberta Balaisyte\Engineering40\Week4\Day3\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Norberta Balaisyte\Engineering40\Week4\Day3\CalculatorTest\obj\Debug\CalculatorTest.csprojAssemblyReference.cache
+C:\Users\Norberta Balaisyte\Engineering40\Week4\Day3\CalculatorTest\obj\Debug\CalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\Norberta Balaisyte\Engineering40\Week4\Day3\CalculatorTest\obj\Debug\CalculatorTest.csproj.CopyComplete
+C:\Users\Norberta Balaisyte\Engineering40\Week4\Day3\CalculatorTest\obj\Debug\CalculatorTest.dll
+C:\Users\Norberta Balaisyte\Engineering40\Week4\Day3\CalculatorTest\obj\Debug\CalculatorTest.pdb
+C:\Users\Norberta Balaisyte\Engineering40\Week4\Day3\CalculatorTest\bin\Debug\Calculator.exe
+C:\Users\Norberta Balaisyte\Engineering40\Week4\Day3\CalculatorTest\bin\Debug\Calculator.pdb
+C:\Users\Norberta Balaisyte\Engineering40\Week4\Day3\CalculatorTest\bin\Debug\Calculator.exe.config
